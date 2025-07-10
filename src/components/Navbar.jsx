@@ -20,7 +20,7 @@ const Navbar = () => {
       transition={{ duration: 0.8 }}
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
-        <h1 className="text-xl md:text-2xl font-bold text-accent">BandosMonkeys.dev</h1>
+        <h1 className="text-xl md:text-2xl font-bold text-accent">BandosMonkies.dev</h1>
 
         <ul className="flex space-x-6 text-white text-sm md:text-base font-medium">
           {navLinks.map((link) => (
